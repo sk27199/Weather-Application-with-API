@@ -56,6 +56,10 @@ With additional development time and experience, I would:
 * include temperature unit switching for example Celcius to Fahrenheit
 * build a web based version of this application
 
+# Demo
+
+![Weather App Demo](weather_demo.gif)
+
 # How to run
 
 ```
