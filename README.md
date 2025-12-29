@@ -6,7 +6,7 @@ The focus of this project is on working with external data sources, handling err
 
 # Why I Built This Project
 
-I built this project to gain experience working with real world APIs and to understand how software communicates with external systems. I also wanted to practise bulding GUIs and handling unreliable inputs such as incorrect city names or issues like internet connection being down.
+I built this project to gain experience working with real world APIs and to understand how software communicates with external systems. I also wanted to practise bulding GUIs and handling unreliable inputs such as incorrect city names or issues like the internet connection being down.
 
 This project helped me undertand how production style applications must handle failures delicately.
 
