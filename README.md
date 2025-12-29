@@ -51,7 +51,7 @@ Another issue was understanding how different API reponse codes should be handle
 
 With additional development time and experience, I would:
 
-* add a muti day forecast
+* add a multiday forecast
 * allow users to save favourite locations like London
 * include temperature unit switching for example Celcius to Fahrenheit
 * build a web based version of this application
