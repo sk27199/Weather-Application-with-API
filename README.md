@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-Application with API
 
 This project is a desktop weather application built using Python and PyQt5. It retrieves real time weather data from OpenWeatherMap API and displays the information using a graphical interface.
 
